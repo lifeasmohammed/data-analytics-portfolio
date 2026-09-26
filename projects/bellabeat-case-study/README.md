@@ -1,6 +1,6 @@
 # Bellabeat Case Study: Sleep & Activity Analysis
 
-📊 [View the full presentation deck](./bellabeat-presentation-pdf)
+📊 [View the full presentation deck](./Bellabeat-presentation-pdf.pdf)
 
 A marketing analytics case study for Bellabeat, a wellness technology company, analyzing FitBit fitness tracker data to uncover the relationship between sleep and physical activity.
 
