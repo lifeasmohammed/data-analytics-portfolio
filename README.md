@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analytics Portfolio
 
 SQL, spreadsheets, and dashboard projects from my transition into data analytics.
 
