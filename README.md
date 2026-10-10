@@ -16,7 +16,7 @@ I am an operational leader who integrates security expertise and retail manageme
 
 **Data Visualization** — Tableau, Power BI, chart selection, dashboard design principles
 
-**Programming** — Python (pandas),
+**Programming** — Python (pandas)
 
 **Statistics** — Correlation, confidence levels, sampling, segmentation analysis
 
