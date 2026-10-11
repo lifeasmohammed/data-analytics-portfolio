@@ -172,7 +172,7 @@ The first CTE totals layoffs per company per year. The second ranks companies **
 
 - `SUM()` ignores `NULL` values, so totals reflect only layoffs where a headcount was reported. Rows missing `total_laid_off` do not add to any total.
 - 500 layoffs have no recorded date, so they appear in company, industry, and country totals but not in the year and month breakdowns.
-- The data covers publicly reported layoffs, not every layoff that occurred, and 2023 only includes the portion of the year the dataset captured, so comparing it to full years like 2022 understates 2023.
+- The data covers publicly reported layoffs, not every layoff that occurred.
 
 ## SQL Skills Demonstrated
 
