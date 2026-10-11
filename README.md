@@ -28,6 +28,7 @@ I am an operational leader who integrates security expertise and retail manageme
 |---|---|---|---|
 | Bellabeat Case Study | Analyzed FitBit fitness tracker data to uncover the relationship between sleep and activity levels, delivering a marketing recommendation for a wellness product line | Google Sheets, SQL, Data Visualization | [/projects/bellabeat-case-study](./projects/bellabeat-case-study) |
 | Layoffs Data Cleaning | Cleaned a raw global tech layoffs dataset in MySQL: removed duplicates with window functions, standardized text and dates, and recovered missing values with a self-join | MySQL, SQL | [/projects/layoffs-sql-cleaning](./projects/layoffs-sql-cleaning) |
+| Layoffs Exploratory Analysis | Explored the cleaned layoffs data to find which companies, industries, and countries were hit hardest, using CTEs, rolling totals, and ranking window functions | MySQL, SQL | [/projects/layoffs-sql-eda](./projects/layoffs-sql-eda) |
 
 *More projects added as completed.*
 
