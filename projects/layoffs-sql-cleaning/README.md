@@ -212,3 +212,7 @@ DROP COLUMN row_num;
 `layoffs_staging2` is now deduplicated, consistently formatted, free of blank/placeholder values where they could be recovered, and typed correctly — ready for exploratory analysis (trends by industry, country, company stage, etc.).
 
 The original `layoffs` and intermediate `layoffs_staging` tables were left untouched throughout, so every step here is reproducible from scratch.
+
+---
+
+➡️ Next: [Exploratory Data Analysis (Part 2)](../layoffs-sql-eda)
